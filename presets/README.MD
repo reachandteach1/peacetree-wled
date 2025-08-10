@@ -6,4 +6,4 @@ wled_presets_peacetree2.json
 * peacetree23: meteor green to blue
 * peacetree24: meteor aqua flash
 * peacetree25: glitter rainbow
-* peacetree26: noise4 white and blue
+* peacetree26: noise4 color gradient white and blue
